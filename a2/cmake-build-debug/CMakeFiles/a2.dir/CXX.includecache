@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/a2/Deque.cpp
+iostream
+-
+Deque.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/a2/Deque.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/a2/Deque.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/a2/main.cpp
+cstring
+-
+iostream
+-
+Deque.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/a2/Deque.h
+

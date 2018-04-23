@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture1/balanced-parentheses/main.cpp
+iostream
+-
+stack
+-
+string
+-
+

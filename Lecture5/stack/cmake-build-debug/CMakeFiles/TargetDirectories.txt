@@ -1,0 +1,3 @@
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture5/stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture5/stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture5/stack/cmake-build-debug/CMakeFiles/stack.dir

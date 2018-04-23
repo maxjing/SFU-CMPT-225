@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture3/queue/Basic_int_queue.cpp
+iostream
+-
+basic_int_queue.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture3/queue/basic_int_queue.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture3/queue/Basic_int_queue.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture3/queue/basic_int_queue.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture3/queue/main.cpp
+iostream
+-
+Basic_int_queue.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture3/queue/Basic_int_queue.h
+

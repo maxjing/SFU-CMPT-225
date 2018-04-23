@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture2/stack/Basic_int_stack.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture2/stack/main.cpp
+iostream
+-
+Basic_int_stack.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/Lecture2/stack/Basic_int_stack.h
+

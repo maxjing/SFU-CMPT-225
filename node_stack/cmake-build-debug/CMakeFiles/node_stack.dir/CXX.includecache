@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/basic_int_stack.cpp
+cstring
+-
+basic_int_stack.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/basic_int_stack.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/basic_int_stack.h
+int_node.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/int_node.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/int_node.cpp
+int_node.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/int_node.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/int_node.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/main.cpp
+iostream
+-
+basic_int_stack.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/node_stack/basic_int_stack.h
+

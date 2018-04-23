@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/A1/char_stack.cpp
+iostream
+-
+char_stack.h
+/Users/jingwen/Documents/ClionProjects/CMPT225/A1/char_stack.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/A1/char_stack.h
+
+/Users/jingwen/Documents/ClionProjects/CMPT225/A1/main.cpp
+iostream
+-
+stack
+-
+

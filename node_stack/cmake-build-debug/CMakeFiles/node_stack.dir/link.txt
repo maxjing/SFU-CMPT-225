@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/node_stack.dir/main.cpp.o CMakeFiles/node_stack.dir/int_node.cpp.o CMakeFiles/node_stack.dir/basic_int_stack.cpp.o  -o node_stack 
